@@ -1,0 +1,8 @@
+[package]
+name = "sway-window-list"
+version = "0.1.0"
+authors = ["Karsten Gebbert <k@ioctl.it>"]
+edition = "2018"
+
+[dependencies.i3ipc]
+version = "0.10.1"
